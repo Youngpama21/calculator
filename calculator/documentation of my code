@@ -1,0 +1,41 @@
+This project is a multipurpose calculator application developed using PHP. It can perform various mathematical calculations including addition, subtraction, multiplication, division, exponentiation, percentage calculation, square root, and logarithm.
+
+Features
+Addition: Adds two numbers.
+Subtraction: Subtracts the second number from the first.
+Multiplication: Multiplies two numbers.
+Division: Divides the first number by the second. Includes error handling for division by zero.
+Exponentiation: Raises the first number to the power of the second.
+Percentage: Calculates the percentage of the first number based on the second number.
+Square Root: Calculates the square root of the first number.
+Logarithm: Calculates the natural logarithm (base e) of the first number. Includes error handling for non-positive numbers.
+Installation
+Clone the Repository:
+
+sh
+Copy code
+git clone https://github.com/youngpama21/projects/calculator.git
+Navigate to the Project Directory:
+
+sh
+Copy code
+cd calculator
+Usage
+Start the PHP Built-in Server:
+
+sh
+Copy code
+
+Using the Calculator:
+
+Enter the first number in the "Enter first number" field.
+Enter the second number in the "Enter second number (if needed)" field. This is optional for operations like square root and logarithm.
+Select the desired operation from the dropdown menu.
+Click the "Calculate" button.
+The result will be displayed below the form.
+
+Testing
+Ensure PHP is installed on your machine.
+Start the PHP server using the command provided in the Usage section.
+Use the provided web form to input numbers and select operations.
+Verify the results for each type of operation to ensure the calculator works correctly.
